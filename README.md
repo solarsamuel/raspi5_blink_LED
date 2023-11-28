@@ -8,7 +8,10 @@ Blink LED's using Raspberry Pi 5 GPIO
 The LED goes through a 220 ohm resistor, which terminates to ground.
 
 Useful links:
-VIDEO: 
+VIDEO: https://youtu.be/cBXBhVYnU5Q
+
 Pi pinout: https://vilros.com/pages/raspberry-pi-5-pinout
+
 Adafruit libgpiod: https://adafruit-playground.com/u/MakerMelissa/pages/comparing-libgpiod-and-gpiozero-speeds-on-the-raspberry-pi-5
+
 How it used to be done on older Raspberry Pi: https://forums.raspberrypi.com/viewtopic.php?t=99113
